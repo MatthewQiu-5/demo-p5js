@@ -12,7 +12,7 @@ html, body {
   }
 
   #score-container {
-    background-color: aquamarine;
+    background-color: rgb(170, 39, 146);
     display: flex;
     justify-content: space-around;
     align-items: center;
