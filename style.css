@@ -30,6 +30,7 @@ html, body {
     height: 25px;
   }
 
+
   canvas {
     display: block;
     grid-column: 1/2;
